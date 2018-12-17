@@ -1,0 +1,32 @@
+body{
+  text-align: center;
+  background-color: black;
+  color: gold;
+  font-size: 1.5rem;
+  font-family: Verdana, Geneva, Tahoma, sans-serif; 
+
+}
+button{
+  background-color: aqua;
+  color: blue;
+  width: 4rem;
+  height: 2rem;
+}
+.First{
+  background-color: blue;
+  width: 75px;
+  height: 40px;
+  color: white;
+}
+.Second {
+  background-color: green;
+  width: 150px;
+  height: 40px;
+  color: white;
+}
+.Third {
+  background-color: red;
+  width: 100px;
+  height: 40px;
+  color: white;
+}
